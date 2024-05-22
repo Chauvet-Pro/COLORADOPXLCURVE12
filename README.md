@@ -1,5 +1,8 @@
 # COLORADOPXLCURVE12
 
+[V1.240509 - COLORado PXL Curve 12](https://github.com/Chauvet-Pro/COLORADOPXLCURVE12/blob/deec72379ace36f4a92b55ca3a0df9a9cab87b6c/firmware/V1.240509.zip)
+- Added better capability for calibration and help with LED color uniformity
+
 [V1.240411 - COLORado PXL Curve 12](https://github.com/Chauvet-Pro/COLORADOPXLCURVE12/blob/0c1a982447efde5e25913eddb22d2e283ce5b79f/firmware/V1.240411.zip)
 - Fixed color snap issue and corrected wrong Web server channels
      * Web server was showing wrong channel counts as: **3, 5, 9, 12, 17, 19,** and **37**.  The new  software corrected this issue, and it now shows the correct channel counts as: **Basic, Basic2, Standard, Advanced, Advanced2, Tour,** and **Full PXL**.
