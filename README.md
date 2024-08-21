@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.240806 - COLORado PXL Curve 12](https://github.com/Chauvet-Pro/COLORADOPXLCURVE12/blob/aafbf62867c2809edeca5b79363b229f05194627/firmware/V1.240806.zip)
+- Fixed sACN timing and IGMP subscription bugs
+
 [V1.240509 - COLORado PXL Curve 12](https://github.com/Chauvet-Pro/COLORADOPXLCURVE12/blob/deec72379ace36f4a92b55ca3a0df9a9cab87b6c/firmware/V1.240509.zip)
 - Added better capability for calibration and help with LED color uniformity
 
