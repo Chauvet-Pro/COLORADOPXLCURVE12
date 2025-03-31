@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.250120 - COLORado PXL Curve 12](https://github.com/Chauvet-Pro/COLORADOPXLCURVE12/blob/4749415c93e3241db780c6a8907642b4ce24ea0e/firmware/V1.250120.zip)
+- Fix the bug that LED color will change if DMX is lost
+
 [V1.240806 - COLORado PXL Curve 12](https://github.com/Chauvet-Pro/COLORADOPXLCURVE12/blob/aafbf62867c2809edeca5b79363b229f05194627/firmware/V1.240806.zip)
 - Fixed sACN timing and IGMP subscription bugs
 
