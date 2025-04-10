@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.250410 - CoLorado PXL Curve 12](https://github.com/Chauvet-Pro/COLORADOPXLCURVE12/blob/7847228bd18a5303ed7845de051ef45fa05ae2e8/firmware/V1.250410.zip)
+- Raised sACN universe count to 32000 from 256
+
 [V1.250120 - COLORado PXL Curve 12](https://github.com/Chauvet-Pro/COLORADOPXLCURVE12/blob/4749415c93e3241db780c6a8907642b4ce24ea0e/firmware/V1.250120.zip)
 - Fix the bug that LED color will change if DMX is lost
 
