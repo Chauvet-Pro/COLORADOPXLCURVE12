@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.250508 _ COLORado PXL Curve 12](https://github.com/Chauvet-Pro/COLORADOPXLCURVE12/blob/197946a255f3d122da8fa44226ae707d0b259a75/firmware/V1.250508.zip)
+- Minor bug fix - tilt improvement
+
 [V1.250410 - CoLorado PXL Curve 12](https://github.com/Chauvet-Pro/COLORADOPXLCURVE12/blob/7847228bd18a5303ed7845de051ef45fa05ae2e8/firmware/V1.250410.zip)
 - Raised sACN universe count to 32000 from 256
 
