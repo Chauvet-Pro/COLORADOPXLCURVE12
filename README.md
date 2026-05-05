@@ -2,7 +2,7 @@
 
 ## Software Versions
 
-[V1.251029](https://github.com/Chauvet-Pro/COLORADOPXLCURVE12/blob/97fab82d04b0815e611dc948f549b2cfaca1c79a/firmware/V1.251029.zip)
+[V1.251029 - COLORado PXL Curve 12](https://github.com/Chauvet-Pro/COLORADOPXLCURVE12/blob/97fab82d04b0815e611dc948f549b2cfaca1c79a/firmware/V1.251029.zip)
 - Added strobe refresh for each value change
 - Fixed the issue that in MA3 ArtNet mode with RDM on, the fixture moved randomly
 - ArtNet Universe range changed to max 32767
