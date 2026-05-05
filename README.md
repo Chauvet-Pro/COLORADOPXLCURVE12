@@ -2,6 +2,13 @@
 
 ## Software Versions
 
+[V1.251029](https://github.com/Chauvet-Pro/COLORADOPXLCURVE12/blob/97fab82d04b0815e611dc948f549b2cfaca1c79a/firmware/V1.251029.zip)
+- Added strobe refresh for each value change
+- Fixed the issue that in MA3 ArtNet mode with RDM on, the fixture moved randomly
+- ArtNet Universe range changed to max 32767
+- Changed webserver to be accessed in any control mode
+- If fixture is set to tilt invert, heads will randomly get stuck during reset.
+  
 [V1.250624 - COLORado PXL Curve 12](https://github.com/Chauvet-Pro/COLORADOPXLCURVE12/blob/600600abeb62ce4a2fbe3a3407048ace49c7b271/V1.250624.zip)
 - Upgraded sACN universe count to 32,000
 
